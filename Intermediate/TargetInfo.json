@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "sebasvillarroelLAB04",
+			"Path": "D:\\labcurso\\sebasvillarroelLAB04\\Source\\sebasvillarroelLAB04.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "sebasvillarroelLAB04Editor",
+			"Path": "D:\\labcurso\\sebasvillarroelLAB04\\Source\\sebasvillarroelLAB04Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

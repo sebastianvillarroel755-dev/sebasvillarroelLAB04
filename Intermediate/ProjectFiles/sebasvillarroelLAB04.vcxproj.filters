@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\sebasvillarroelLAB04.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D5BAB47C-D476-46F6-8366-78800CBA1012}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\sebasvillarroelLAB04.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\sebasvillarroelLAB04Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{66F96F46-093D-4571-96CC-5C1041921F2E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\sebasvillarroelLAB04">
+      <UniqueIdentifier>{264A4E11-770C-49A2-A292-D3CC7D90E467}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\sebasvillarroelLAB04\sebasvillarroelLAB04.Build.cs">
+      <Filter>Source\sebasvillarroelLAB04</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\sebasvillarroelLAB04\sebasvillarroelLAB04.cpp">
+      <Filter>Source\sebasvillarroelLAB04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\sebasvillarroelLAB04\sebasvillarroelLAB04.h">
+      <Filter>Source\sebasvillarroelLAB04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\sebasvillarroelLAB04\sebasvillarroelLAB04GameMode.cpp">
+      <Filter>Source\sebasvillarroelLAB04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\sebasvillarroelLAB04\sebasvillarroelLAB04GameMode.h">
+      <Filter>Source\sebasvillarroelLAB04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\sebasvillarroelLAB04\sebasvillarroelLAB04Pawn.cpp">
+      <Filter>Source\sebasvillarroelLAB04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\sebasvillarroelLAB04\sebasvillarroelLAB04Pawn.h">
+      <Filter>Source\sebasvillarroelLAB04</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\sebasvillarroelLAB04\sebasvillarroelLAB04Projectile.cpp">
+      <Filter>Source\sebasvillarroelLAB04</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\sebasvillarroelLAB04\sebasvillarroelLAB04Projectile.h">
+      <Filter>Source\sebasvillarroelLAB04</Filter>
+    </ClInclude>
+    <Filter Include="Source\sebasvillarroelLAB04\Private">
+      <UniqueIdentifier>{F1E9D323-9C18-415C-9208-66CA1B0217AD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\sebasvillarroelLAB04\Private\Bloque.cpp">
+      <Filter>Source\sebasvillarroelLAB04\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\sebasvillarroelLAB04\Private\Enemigo.cpp">
+      <Filter>Source\sebasvillarroelLAB04\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\sebasvillarroelLAB04\Public">
+      <UniqueIdentifier>{C3B506CF-7A43-420E-BEDF-53583BB67761}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\sebasvillarroelLAB04\Public\Bloque.h">
+      <Filter>Source\sebasvillarroelLAB04\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\sebasvillarroelLAB04\Public\Enemigo.h">
+      <Filter>Source\sebasvillarroelLAB04\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

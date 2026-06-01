@@ -1,0 +1,7 @@
+D:\labcurso\sebasvillarroelLAB04\Intermediate\Build\Win64\UE4Editor\Development\sebasvillarroelLAB04\Definitions.sebasvillarroelLAB04.h
+D:\labcurso\sebasvillarroelLAB04\Source\sebasvillarroelLAB04\sebasvillarroelLAB04Projectile.h
+D:\labcurso\sebasvillarroelLAB04\Intermediate\Build\Win64\UE4Editor\Inc\sebasvillarroelLAB04\sebasvillarroelLAB04Projectile.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h

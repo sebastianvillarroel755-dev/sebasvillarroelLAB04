@@ -1,0 +1,3 @@
+D:\labcurso\sebasvillarroelLAB04\Intermediate\Build\Win64\UE4Editor\Development\sebasvillarroelLAB04\Definitions.sebasvillarroelLAB04.h
+D:\labcurso\sebasvillarroelLAB04\Source\sebasvillarroelLAB04\Public\Bloque.h
+D:\labcurso\sebasvillarroelLAB04\Intermediate\Build\Win64\UE4Editor\Inc\sebasvillarroelLAB04\Bloque.generated.h
